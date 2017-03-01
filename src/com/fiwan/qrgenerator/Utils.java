@@ -8,6 +8,11 @@ import java.awt.datatransfer.UnsupportedFlavorException;
 import java.io.File;
 import java.io.IOException;
 
+/**
+ * @author frogchou
+ * @version 1.0
+ * 工具类存放一些常用的方法
+ * */
 public class Utils {
 	
 	/**
