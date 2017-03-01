@@ -3,7 +3,8 @@ package com.fiwan.qrgenerator;
 import com.google.zxing.qrcode.decoder.ErrorCorrectionLevel;
 
 /**
- * 生成码的配置对象
+ * 生成码的配置
+ * 使用单例生成一个配置类。
  * */
 public class Settings {
     private Settings() {}  
