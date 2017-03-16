@@ -16,7 +16,7 @@ import java.io.IOException;
 public class Utils {
 	
 	/**
-	 * 返回程序当前被存放的路径，使用user.dir
+	 * 返回程序当前被存放的路径，使用user.dir.
 	 * @return String 程序当前被存放的路径
 	 * */
 	public static String getCurrentPath() {
