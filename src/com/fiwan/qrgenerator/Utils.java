@@ -10,13 +10,13 @@ import java.io.IOException;
 
 /**
  * @author frogchou
- * @version 1.0
+ * @version 1.1
  * 工具类存放一些常用的方法
  * */
 public class Utils {
 	
 	/**
-	 * 返回程序当前被存放的路径
+	 * 返回程序当前被存放的路径，使用user.dir
 	 * @return String 程序当前被存放的路径
 	 * */
 	public static String getCurrentPath() {
